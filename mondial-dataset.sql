@@ -1,6 +1,6 @@
 /*********************** 
 Author: Deepak Luitel
-Assignment Part 2: SQL 
+Assignment: SQL Queries on Mondial Dataset 
 CMSC424 Database Design
 Spring 2015
 ***********************/
