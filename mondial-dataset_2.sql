@@ -1,7 +1,7 @@
 /******************* 
 Deepak Luitel
-CMSC 424
 Database Design
+CMSC 424
 Spring 2015
 ********************/
 
